@@ -5,4 +5,5 @@ while x > 0:
     print(rev)
     x = x // 10
     print(x)
+    print("done")
 print("Reversed number", rev)
